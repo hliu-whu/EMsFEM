@@ -2,7 +2,9 @@
 Open source MATLAB code for the linear elastic analysis of heterogeneous materials and structures by using the Extended Multiscale Finite Element Method (EMsFEM)
 
 %%% A detailed description of the code can be viewed in the paper:
+
 %%% MATLAB code for elastic analysis of heterogeneous materials using the Extended Multiscale Finite Element Method
+
 %%% Hui Liu, Dongsheng Yang, Jingkai Wu, Yonggang Zheng, Hongwu Zhang
 
 
