@@ -1,4 +1,4 @@
-# MATLAB code for the Extended Multiscale Finite Element Method (EMsFEM)
+# MATLAB code of the Extended Multiscale Finite Element Method (EMsFEM)
 Open source MATLAB code for the linear elastic analysis of heterogeneous materials and structures by using the Extended Multiscale Finite Element Method (EMsFEM)
 
 %%% A detailed description of the code can be viewed in the paper:
