@@ -3,7 +3,7 @@ Open source MATLAB code for the linear elastic analysis of heterogeneous materia
 
 %%% A detailed description of the code can be viewed in the paper:
 
-%%% Hui Liu, Dongsheng Yang, Jingkai Wu, Yonggang Zheng, Hongwu Zhang. An Open-Source MATLAB Implementation for elastic analysis of heterogeneous materials using the Extended Multiscale Finite Element Method. International Journal for Multiscale Computational Engineering, 2021, accepted.
+%%% Hui Liu, Dongsheng Yang, Jingkai Wu, Yonggang Zheng, Hongwu Zhang. An Open-Source MATLAB Implementation for elastic analysis of heterogeneous materials using the Extended Multiscale Finite Element Method. International Journal for Multiscale Computational Engineering, 2021, DOI: 10.1615/IntJMultCompEng.2021039777
 
 %%% 
 
